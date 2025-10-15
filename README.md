@@ -1,3 +1,4 @@
 # Pratikum-UI-UX
 
-Untuk CV ada di file praktikum01
+- Tugas CV ada di file praktikum01
+- Tugas Pemesanan Barang di file praktikum02
