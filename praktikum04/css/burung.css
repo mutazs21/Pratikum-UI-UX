@@ -93,6 +93,12 @@ h1 {
     line-height: 1.8;
 }
 
+.b {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    font-style: italic;
+    color: rgb(2, 2, 150);
+}
 .isi p {
     text-align: justify;
     margin-bottom: 15px;
